@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BeaversCakes</string>
+    <string name="yum_yes_we_can_bake_that">Yum!!:-) Yes We Can Cook or Bake That!</string>
+    <string name="get_started">Get Started</string>
+    <string name="cakes">cakes</string>
+</resources>
